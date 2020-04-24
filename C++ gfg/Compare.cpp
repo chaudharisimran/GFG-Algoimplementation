@@ -12,8 +12,7 @@ void compare(int arr1[], int arr2[], int n) {
     rep(i, 2) cout << result[i] << " ";
 }
 int main() {
-    int arr1[3];
-    int arr2[3];
+    int arr1[3], arr2[3];
     rep(i, 3) cin >> arr1[i];
     rep(i, 3) cin >> arr2[i];
     compare(arr1, arr2, 3);

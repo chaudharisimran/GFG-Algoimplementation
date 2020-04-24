@@ -15,9 +15,7 @@ void chkAllmaxtomin(int a[]) {
     sort(a, a + sizeof(a) / sizeof(a[0]));
 }
 
-
 int convertFive(int n) {
-
 }
 
 int main() {
